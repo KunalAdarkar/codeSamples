@@ -1,0 +1,2 @@
+Click on the index.html to begin learning about the reversi.java program I created. Make sure you open the index.html in Microsoft Edge.
+If you don't know how to play reversi, watch the video on the index.html, it will teach you the rules. 
